@@ -1,2 +1,2 @@
 # Custom-Neural-Network-with-Pytorch
-Uploaded early prototype
+Uploaded early prototype in public repository.
